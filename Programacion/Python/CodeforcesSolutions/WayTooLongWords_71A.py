@@ -10,3 +10,4 @@ while range(0 , n+1):
             print(second_char, end='')
     else:
             print(phr)
+
