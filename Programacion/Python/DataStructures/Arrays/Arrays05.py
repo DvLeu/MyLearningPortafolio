@@ -12,3 +12,4 @@ my_array.pop(1)
 
 # Imprimir el array completo
 print(my_array)  # salida: array('i', [1, 3, 4, 5])
+#Prueba New UI PYCHARM
